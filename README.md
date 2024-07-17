@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KevinYol
+- 👋 Hi, I’m @KevinYol, or just call me by my first name Kevin.
 - 👀 I’m interested in learning to improve and develop my programming skills to become a Full Stack Developer.
 - I would love any feedback available from more experienced developers to continue to improve efficiency and see things from a more experienced perspective. 
 - 🌱 I’m currently learning/practicing Front End Development. 
